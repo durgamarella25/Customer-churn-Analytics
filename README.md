@@ -1,3 +1,4 @@
+
 # Customer Churn & Retention Analytics
 
 End-to-end machine learning repository for customer churn prediction, customer risk segmentation, and retention strategy analysis using the `Customer-Churn-Records.csv` dataset.
@@ -89,3 +90,7 @@ Based on the included `summary.json`:
 - The pipeline has been adapted to use repository-relative paths so it can run locally from this repo.
 "# Customer-Churn-Analytics-Pipeline" 
 "# Customer-Churn-Analytics-Pipeline" 
+
+# Customer-churn-Analytics
+Customer-Churn-Analytics-Pipeline is a batch data analytics project that automates preprocessing, model training, and churn prediction. Generates dashboards, summary metrics, and a saved ML model for business insights.
+
