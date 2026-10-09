@@ -658,7 +658,7 @@ print("  Dashboard 4 saved.")
 # ═══════════════════════════════════════════════════════════════════════════
 summary = {
     'dataset': {
-        'source':     DATA_PATH,
+        'source':     str(DATA_PATH),
         'rows':       int(len(df)),
         'features':   int(len(FEATURE_COLS)),
         'churn_rate': float(df['Exited'].mean()),

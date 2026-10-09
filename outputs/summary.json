@@ -1,6 +1,6 @@
 {
   "dataset": {
-    "source": "data/raw/Customer-Churn-Records.csv",
+    "source": "C:\\Users\\marel\\Documents\\Codex\\2026-10-08\\https-github-com-vishnutejach-customer-churn\\work\\Customer-Churn-Analytics-Pipeline\\data\\raw\\Customer-Churn-Records.csv",
     "rows": 10000,
     "features": 23,
     "churn_rate": 0.2038
@@ -12,14 +12,14 @@
       "avg_prec": 0.9934484287799357
     },
     "Random Forest": {
-      "accuracy": 0.978,
-      "roc_auc": 0.9966145063553059,
-      "avg_prec": 0.9893114102785328
+      "accuracy": 0.9715,
+      "roc_auc": 0.9966391393240713,
+      "avg_prec": 0.9895570752809822
     },
     "Gradient Boosting": {
-      "accuracy": 0.9985,
-      "roc_auc": 0.999602793378658,
-      "avg_prec": 0.9987965844746739
+      "accuracy": 0.998,
+      "roc_auc": 0.9995766208493447,
+      "avg_prec": 0.998732722434596
     },
     "Deep Neural Network": {
       "accuracy": 0.9975,
